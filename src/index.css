@@ -7,12 +7,3 @@
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
-a {
-  background-color: aqua;
-  color: azure;
-  padding: 8px;
-  text-decoration: none;
-  margin-right: 8px;
-  border-radius: 8px;
-}
